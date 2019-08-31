@@ -21,3 +21,4 @@ Selenium has been used as a simple way to extract the neccessary information, bu
 ### Drawbacks:
 - Manual Update of ChromeDriver exe are needed to align with current client Chrome Version
 - Relies upon a consistent format for description
+- Chromedriver.exe location must exist in Path Environment Variable
